@@ -19,4 +19,5 @@ Given two stereo image pairs, the aim is to reconstruct 3D models using simple l
 * The homogeneous linear method described above often provides acceptable results but it is always recommended to use triangulation that is invariant to the projective frame of the cameras, and minimizes a geometric image error.
 * The computational cost increases with an increase in the number of views.
 
-### Usage: The folder contains all the inputs, just run the main.m in MATLAB, select the image pair that you wish to execute and all the required steps will be executed.
+### Usage: 
+The folder contains all the inputs, just run the main.m in MATLAB, select the image pair that you wish to execute and all the required steps will be executed.
